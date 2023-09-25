@@ -5,6 +5,7 @@ Scientific Calculator using HTML, CSS and JS
 
 **Output**
 
-![image](https://user-images.githubusercontent.com/78071986/211052936-c6c60c4c-e24e-4a07-8b2e-4d782ad333eb.png)
+![image]![cala1](https://github.com/Supreetkaur1/Calculator/assets/78071986/c7d39659-9fb8-4ddb-9e60-091a4d2fb18e)
+
 
 
